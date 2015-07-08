@@ -1,5 +1,5 @@
 README
-======
+=====
 
 What is Symfony?
 -----------------
